@@ -2,7 +2,7 @@
 to: packages/<%= name %>/package.json
 ---
 {
-  "name": "<%= name %>",
+  "name": "@<%= scope %>/<%= name %>",
   "version": "1.0.0",
   "description": "<%= locals.description %>",
   "keywords": [
