@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/link2cory/boilerplate/compare/@link2cory/package@1.1.1...@link2cory/package@1.2.0) (2022-03-20)
+
+
+### Features
+
+* **package:** remove keywords section from generated package.json ([155ef61](https://github.com/link2cory/boilerplate/commit/155ef617a4acf82a96149b327f23dffd6efb97ec))
+
+
+
+
+
 ## [1.1.1](https://github.com/link2cory/boilerplate/compare/@link2cory/package@1.1.0...@link2cory/package@1.1.1) (2022-03-20)
 
 **Note:** Version bump only for package @link2cory/package
