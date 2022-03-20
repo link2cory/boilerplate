@@ -11,7 +11,7 @@ to: packages/<%= name %>/package.json
   ],
   "author": "Cory Perkins <link2cory@gmail.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "main": "lib/generator.js",
   "directories": {
     "lib": "lib",

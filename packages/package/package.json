@@ -8,7 +8,7 @@
   ],
   "author": "Cory Perkins <link2cory@gmail.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   }
