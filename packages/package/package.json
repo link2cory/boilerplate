@@ -1,0 +1,15 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "hygen generator for creating packages",
+  "keywords": [
+    "hygen",
+    "generator"
+  ],
+  "author": "Cory Perkins <link2cory@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

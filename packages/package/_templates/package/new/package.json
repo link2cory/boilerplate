@@ -1,0 +1,26 @@
+---
+to: packages/<%= name %>/package.json
+---
+{
+  "name": "<%= name %>",
+  "version": "1.0.0",
+  "description": "<%= locals.description %>",
+  "keywords": [
+    "hygen",
+    "generator"
+  ],
+  "author": "Cory Perkins <link2cory@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/generator.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
