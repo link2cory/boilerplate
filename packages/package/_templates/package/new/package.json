@@ -5,10 +5,6 @@ to: packages/<%= name %>/package.json
   "name": "@<%= scope %>/<%= name %>",
   "version": "1.0.0",
   "description": "<%= locals.description %>",
-  "keywords": [
-    "hygen",
-    "generator"
-  ],
   "author": "Cory Perkins <link2cory@gmail.com>",
   "homepage": "",
   "license": "GPL-3.0",
