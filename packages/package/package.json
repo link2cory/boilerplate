@@ -1,5 +1,5 @@
 {
-  "name": "package",
+  "name": "@bp/package",
   "version": "1.0.0",
   "description": "hygen generator for creating packages",
   "keywords": [
@@ -11,5 +11,9 @@
   "license": "GPL-3.0",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "repository": "https://github.com/link2cory/boilerplate",
+  "publishConfig": {
+    "@bp:registry": "https://npm.pkg.github.com/boilerplate"
   }
 }
