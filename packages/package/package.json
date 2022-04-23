@@ -15,5 +15,9 @@
   "repository": "https://github.com/link2cory/boilerplate",
   "publishConfig": {
     "@link2cory:registry": "https://npm.pkg.github.com/link2cory"
+  },
+  "devDependencies": {
+    "hygen": "^6.2.0",
+    "prettier": "^2.6.2"
   }
 }
