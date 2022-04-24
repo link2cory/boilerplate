@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "version": "lerna version --conventional-commits",
+    "publish": "lerna publish from-git"
   },
   "author": "",
   "license": "GPL-3.0",
