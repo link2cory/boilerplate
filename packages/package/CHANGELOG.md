@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/link2cory/boilerplate/compare/@link2cory/package@1.2.0...@link2cory/package@1.3.0) (2022-04-24)
+
+
+### Features
+
+* **package:** add interactive prompt for "new" generator ([dec128b](https://github.com/link2cory/boilerplate/commit/dec128b0549c309d1e7bf0b09525ba59de472710))
+
+
+
+
+
 # [1.2.0](https://github.com/link2cory/boilerplate/compare/@link2cory/package@1.1.1...@link2cory/package@1.2.0) (2022-03-20)
 
 
