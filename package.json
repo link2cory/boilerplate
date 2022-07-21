@@ -31,5 +31,9 @@
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix"
-  }
+  },
+  "publishConfig": {
+    "@link2cory:registry": "https://npm.pkg.github.com/link2cory"
+  },
+  "repository": "https://github.com/link2cory/boilerplate"
 }
