@@ -5,6 +5,9 @@
     "version": {
       "allowBranch": "master",
       "conventionalCommits": true
+    },
+    "publish": {
+      "registry": "https://npm.pkg.github.com/link2cory"
     }
   }
 }
